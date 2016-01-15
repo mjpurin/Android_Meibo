@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         etAge=(EditText)findViewById(R.id.etAge);
         rg=(RadioGroup)findViewById(R.id.rg);
         bt=(Button)findViewById(R.id.button);
-      
+
     }
 
     private void addEvent(){
